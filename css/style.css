@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,700&display=swap');
+
+
+.fondo{
+    background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+    opacity: 80%;
+    background-size: cover;
+}
+
+
+.titulo{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    color: #000000;
+    text-align: center;
+}
+
+.info-personas{
+    margin: 6% 10% 10% 10%;
+    padding: 0% 2%;
+}
+
+.bloque{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    border: solid #000 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
